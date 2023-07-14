@@ -6,7 +6,7 @@
 <br><br>
 <hr>
 <h3> <b> ✨ PROJECT </b>【EDA】 </h3> <br>
-- 대상 : Kaggle Data-월마트 매출분석 <br><br>
+- <b>Data : <a href = "https://www.kaggle.com/datasets/rutuspatel/walmart-dataset-retail">Kaggle Data-월마트 매출분석 </a></b> <br><br>
 - 분석항목<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. 매출이 가장 많은 매장  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 매출이 가장 적은 매장 <br>
